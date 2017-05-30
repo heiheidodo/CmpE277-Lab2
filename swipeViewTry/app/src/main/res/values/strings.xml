@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">swipeViewTry</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="property_info">Property Information(Optional)</string>
+    <string name="loan_info">Loan Information</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

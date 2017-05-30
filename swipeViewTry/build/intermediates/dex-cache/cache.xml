@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/huiyu/.android/build-cache/d5a35d55194e037fbeb4ff3f42d812dbe0c77aa8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/huiyu/AndroidStudioProjects/swipeViewTry/app/build/intermediates/pre-dexed/debug/classes_3668ba4a1a04357e9258704b07453434da227f05.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huiyu/AndroidStudioProjects/swipeViewTry/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/huiyu/AndroidStudioProjects/swipeViewTry/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_00d7832cd4e3e847b9e5e74bdae164e04c9d6d91/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huiyu/.android/build-cache/de6c7514770aa913ed440d49665133e609b3b787/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/huiyu/AndroidStudioProjects/swipeViewTry/app/build/intermediates/pre-dexed/debug/classes_bab57541af64eda1abe9ea85480613fa9f78bc44.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huiyu/AndroidStudioProjects/swipeViewTry/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e578ff0d890ff8ebe30f77a5622eb3316df990d">
+        <dex dex="/Users/huiyu/AndroidStudioProjects/swipeViewTry/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fd34f872aa7cef9ed5ad0b8709117fcf6832467b/classes.dex" />
+    </item>
+
+</items>

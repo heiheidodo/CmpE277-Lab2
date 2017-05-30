@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="property_type">
+        <item>House</item>
+        <item>Townhouse</item>
+        <item>Condo</item>
+    </string-array>
+    <string-array name="state">
+        <item>ALASKA</item>
+        <item>ALABAMA</item>
+        <item>ARIZONA</item>
+        <item>ARKANSAS</item>
+        <item>CALIFORNIA</item>
+        <item>COLORADO</item>
+        <item>CONNECTICUT</item>
+        <item>DELAWARE</item>
+        <item>DISTRICT OF COLUMBIA</item>
+        <item>FLORIDA</item>
+        <item>GEORGIA</item>
+        <item>HAWAII</item>
+        <item>IDAHO</item>
+        <item>ILLINOIS</item>
+        <item>INDIANA</item>
+        <item>IOWA</item>
+        <item>KANSAS</item>
+        <item>KENTUCKY</item>
+        <item>LOUISIANA</item>
+        <item>MAINE</item>
+        <item>MARYLAND</item>
+        <item>MASSACHUSETTS</item>
+        <item>MICHIGAN</item>
+        <item>MINNESOTA</item>
+        <item>MISSISSIPPI</item>
+        <item>MISSOURI</item>
+        <item>MONTANA</item>
+        <item>NEBRASKA</item>
+        <item>NEVADA</item>
+        <item>NEW HAMPSHIRE</item>
+        <item>NEW JERSEY</item>
+        <item>NEW MEXICO</item>
+        <item>NEW YORK</item>
+        <item>NORTH CAROLINA</item>
+        <item>NORTH DAKOTA</item>
+        <item>OHIO</item>
+        <item>OKLAHOMA</item>
+        <item>OREGON</item>
+        <item>PENNSYLVANIA</item>
+        <item>PUERTO RICO</item>
+        <item>RHODE ISLAND</item>
+        <item>SOUTH CAROLINA</item>
+        <item>SOUTH DAKOTA</item>
+        <item>TENNESSEE</item>
+        <item>TEXAS</item>
+        <item>UTAH</item>
+        <item>VERMONT</item>
+        <item>VIRGINIA</item>
+        <item>VIRGIA ISLAND</item>
+        <item>WASHINGTON</item>
+        <item>WEST VIRGINIA</item>
+        <item>WISCONSIN</item>
+        <item>WYOMING</item>
+    </string-array>
+</resources>

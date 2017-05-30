@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/dialog">
+
+    <EditText
+        android:id="@+id/new_property_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:inputType="numberDecimal"
+        android:hint="Property Price ($)" />
+
+    <EditText
+        android:id="@+id/new_down_payment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:inputType="numberDecimal"
+        android:hint="Down Payment ($)" />
+    <EditText
+        android:id="@+id/new_apr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:inputType="numberDecimal"
+        android:hint="Annual Percentage Rate (%)"/>
+    <EditText
+        android:id="@+id/new_terms"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:inputType="numberDecimal"
+        android:hint="Terms (years)" />
+</LinearLayout>
